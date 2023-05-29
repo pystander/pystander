@@ -1,9 +1,17 @@
 # Hi there, I'm [Rain](https://pystander.github.io) 👋
 
+<img height=384 src="assets/img/sd_img2img.png">
+
+(Image generated using [Stable-Diffusion-WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui), with models [MeinaMix](https://civitai.com/models/7240/meinamix) and [Anime Lineart](https://civitai.com/models/16014/anime-lineart-manga-like-style))
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rainleung0218@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/rain-leung-688773240)
 ![GitHub followers](https://img.shields.io/github/followers/pystander?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pystander?style=social)
+
+</br>
+
+## 💭 About Me
 
 - 🏫 Currently an undergraduate CS student
 - 🔎 Self-motivated learner with an inquisitive mind
@@ -31,6 +39,6 @@
 
 </br>
 
-## GitHub Stats
+## 🔥 GitHub Stats
 
-<img height="193px" src="https://github-readme-stats.vercel.app/api?username=pystander&show_icons=true&include_all_commits=true&theme=github_dark" /><img height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pystander&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=pystander&show_icons=true&include_all_commits=true&theme=github_dark" /><img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pystander&layout=compact&theme=github_dark" />
