@@ -1,4 +1,4 @@
-# Hi there, I'm [Rain](https://pystander.github.io) 👋
+# Hi there, I'm <a href="https://pystander.github.io" target="_blank">Rain</a>  👋
 
 <img height=384 src="assets/img/sd_img2img.png">
 
