@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/rain-leung-688773240)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pystander)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pystander)
+[![AtCoder](https://atrating.baoshuo.dev/rating?username=pystander)](https://atcoder.jp/users/pystander)
 
 ![GitHub followers](https://img.shields.io/github/followers/pystander?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pystander?style=social)
@@ -21,6 +22,7 @@
 - 🔎 Self-motivated learner with an inquisitive mind
 - 🤖 Interested in AI/ML stuff, especially DNN and NLP
 - 🎮 Probably an "old-school" gamer
+- 🏆 Recently joining contests on LeetCode, Codeforces, and AtCoder
 
 </br>
 
