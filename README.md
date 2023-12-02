@@ -8,10 +8,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rainleung0218@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/rain-leung-688773240)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pystander)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pystander)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/pystander)
-[![AtCoder](https://atrating.baoshuo.dev/rating?username=pystander)](https://atcoder.jp/users/pystander)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fpystander&query=ranking&style=for-the-badge&logo=leetcode&label=leetcode%20%7C%20rank&labelColor=black&color=orange)](https://leetcode.com/pystander)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpystander&query=result%5B0%5D.maxRating&style=for-the-badge&logo=codeforces&logoColor=white&label=codeforces%20%7C%20rating&labelColor=1f8acb&color=add8e6)](https://codeforces.com/profile/pystander)
+[![CodeChef](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fpystander&query=highestRating&style=for-the-badge&logo=codechef&label=codechef%20%7C%20rating&labelColor=5c4638&color=f9f4df)](https://www.codechef.com/users/pystander)
+[![AtCoder](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fatcoder.jp%2Fusers%2Fpystander%2Fhistory%2Fjson&query=%24%5B(%40.length-1)%5D.NewRating&style=for-the-badge&label=atcoder%20%7C%20rating&labelColor=2c2a2b&color=grey)](https://atcoder.jp/users/pystander)
 
 ![GitHub followers](https://img.shields.io/github/followers/pystander?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pystander?style=social)
