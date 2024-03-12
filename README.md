@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Rain 👋</h1>
 <p align="center">
-<img width=384 height=384 src="assets/img/sd_img2img.png">
+    <img width=384 height=384 src="assets/img/sd_img2img.png">
+</p>
 
 <p align="center">
     (Image generated using <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable-Diffusion-WebUI</a>,
@@ -9,13 +10,11 @@
 
 <p align="center">
     <a href="https://pystander.github.io" alt="GitHub website">
-        <img src="https://img.shields.io/github/actions/workflow/status/pystander/pystander.github.io/jekyll-gh-pages.yml?style=for-the-badge&logo=github&labelColor=121013"></a>
+        <img src="https://img.shields.io/badge/github.io-333?logo=github&logoColor=fff&style=for-the-badge"></a>
     <a href="mailto:rainleung0218@gmail.com" alt="Gmail">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://hk.linkedin.com/in/rain-leung-pystander" alt="LinkedIn">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.kaggle.com/rainleung" alt="Kaggle">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge"></a>
     <br>
     <a href="https://leetcode.com/pystander", alt="LeetCode">
         <img src="https://img.shields.io/badge/leetcode-profile-orange?style=for-the-badge&logo=leetcode&label=leetcode&labelColor=black"></a>
@@ -33,7 +32,7 @@
 ## 💭 About Me
 - 🏫 Currently an undergraduate CS student
 - 🔎 Self-motivated learner with an inquisitive mind
-- 🤖 Interested in AI/ML stuff, especially DNN and NLP
+- 🤖 Interested in AI/ML stuff, especially in DL, NLP, and CV
 - 🏆 Contestant of competitive programming
 - 🎮 Probably an "old-school" gamer
 
@@ -48,6 +47,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
+![Octave](https://img.shields.io/badge/Octave-0790C0?logo=octave&logoColor=fff&style=for-the-badge)
 
 
 ## 💻 Tech Stack
@@ -57,16 +58,19 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff&style=for-the-badge)
 
 
