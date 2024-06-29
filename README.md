@@ -28,7 +28,7 @@
 
 
 ## 💭 About Me
-- 🏫 Currently an undergraduate CS student
+- 🏫 Recent CS graduate
 - 🔎 Self-motivated learner with an inquisitive mind
 - 🤖 Interested in AI/ML stuff, especially in DL, NLP, and CV
 - 🏆 Contestant of competitive programming
