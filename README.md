@@ -19,7 +19,7 @@
     <a href="https://leetcode.com/pystander", alt="LeetCode">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-api-three.vercel.app%2Fleetcode%2Fpystander&query=rating&style=for-the-badge&logo=leetcode&label=leetcode&labelColor=black&color=orange"></a>
     <a href="https://codeforces.com/profile/pystander", alt="Codeforces">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpystander&query=result%5B0%5D.maxRating&style=for-the-badge&logo=codeforces&logoColor=white&label=codeforces&labelColor=188ecc&color=6cb5dd"></a>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpystander&query=result%5B0%5D.rating&style=for-the-badge&logo=codeforces&logoColor=white&label=codeforces&labelColor=188ecc&color=6cb5dd"></a>
     <a href="https://www.codechef.com/users/pystander", alt="CodeChef">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-api-three.vercel.app%2Fcodechef%2Fpystander&query=rating&style=for-the-badge&logo=codechef&label=codechef&labelColor=3e2312&color=743c17"></a>
     <a href="https://atcoder.jp/users/pystander", alt="AtCoder">
