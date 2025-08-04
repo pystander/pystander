@@ -29,10 +29,9 @@
 
 ## 💭 About Me
 - 👨‍💻 A passionate Data Engineer
+- 📊 Interested in Data and AI/ML, especially on Big Data stuff
 - 🔎 Self-motivated learner with an inquisitive mind
-- 🤖 Interested in Data and AI/ML, especially on Big Data stuff
-- 🏆 Active participant of competitive programming contests
-- 🕹️ Probably an "old-school" gamer
+- 🏆 Participant of competitive programming contests
 
 
 ## 🌐 Languages
