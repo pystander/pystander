@@ -105,5 +105,7 @@
 --->
 
 
+<!---
 ## 🔥 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=pystander&show_icons=true&include_all_commits=true&theme=github_dark" /><img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pystander&layout=compact&theme=github_dark" />
+--->
