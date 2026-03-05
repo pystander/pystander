@@ -30,11 +30,14 @@
 ## 💭 About Me
 - 👨‍💻 A passionate Data Engineer
 - 📊 Interested in Data and AI/ML, especially on Big Data stuff
-- 🔎 Self-motivated learner with an inquisitive mind
+- 🔎 Self-motivated explorer with an inquisitive mind
 - 🏆 Participant of competitive programming contests
+- 🌐 Lifelong polyglot leveraging fluency in 6+ languages
 
 
-## 🌐 Languages
+## 💻 Tech Stack
+
+### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,10 +50,7 @@
 <!--
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
 ![Octave](https://img.shields.io/badge/Octave-0790C0?logo=octave&logoColor=fff&style=for-the-badge)
--->
-
-
-## 💻 Tech Stack
+--> 
 
 ### Data & AI/ML
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
