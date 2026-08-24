@@ -60,8 +60,9 @@
 ![HBase](https://img.shields.io/badge/HBase-%23cb0000?style=for-the-badge&logo=apachehbase)
 ![Phoenix](https://img.shields.io/badge/Phoenix-EE4C2C?logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Doris](https://img.shields.io/badge/Doris-%230dbe85??logoColor=fff&style=for-the-badge)
 <!--
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
